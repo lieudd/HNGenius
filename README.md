@@ -1,0 +1,2 @@
+# HNGenius
+project of stock
